@@ -1004,7 +1004,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ for JEE aspirants**
 
-Made by [Your Name](https://github.com/yourusername)
+Made by [Nishant Singh](https://github.com/Nishant142k2)
 
 [⬆ Back to Top](#-jee-math-ai---intelligent-mathematics-problem-solver)
 
